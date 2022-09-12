@@ -1,0 +1,1048 @@
+{
+ "Forest": [
+  {
+   "Area": "Jharkand",
+   "Oxygen": "40",
+   "Temperature": "45",
+   "Humidity": "20",
+   "Fire Occurence": "1",
+   "lat": "10.06238",
+   "lon": "124.53673"
+  },
+  {
+   "Area": "Bangalore",
+   "Oxygen": "50",
+   "Temperature": "30",
+   "Humidity": "10",
+   "Fire Occurence": "1",
+   "lat": "12.927923",
+   "lon": "77.627106"
+  },
+  {
+   "Area": "Andhra Pradesh",
+   "Oxygen": "10",
+   "Temperature": "20",
+   "Humidity": "70",
+   "Fire Occurence": "0",
+   "lat": "15.7748919",
+   "lon": "80.3273469"
+  },
+  {
+   "Area": "Arunachal Pradesh",
+   "Oxygen": "60",
+   "Temperature": "45",
+   "Humidity": "70",
+   "Fire Occurence": "1",
+   "lat": "28.0589676",
+   "lon": "95.3324944"
+  },
+  {
+   "Area": "Bangalore",
+   "Oxygen": "30",
+   "Temperature": "48",
+   "Humidity": "10",
+   "Fire Occurence": "1",
+   "lat": "12.927923",
+   "lon": "77.627106"
+  },
+  {
+   "Area": "Assam",
+   "Oxygen": "50",
+   "Temperature": "15",
+   "Humidity": "30",
+   "Fire Occurence": "0",
+   "lat": "26.4073841",
+   "lon": "93.2551303"
+  },
+  {
+   "Area": "Bihar",
+   "Oxygen": "5",
+   "Temperature": "35",
+   "Humidity": "35",
+   "Fire Occurence": "0",
+   "lat": "25.7744929",
+   "lon": "85.8662681"
+  },
+  {
+   "Area": "Chattisgarh",
+   "Oxygen": "5",
+   "Temperature": "20",
+   "Humidity": "70",
+   "Fire Occurence": "0",
+   "lat": "21.572646",
+   "lon": "82.4367069"
+  },
+  {
+   "Area": "Delhi",
+   "Oxygen": "60",
+   "Temperature": "32",
+   "Humidity": "19",
+   "Fire Occurence": "1",
+   "lat": "28.6517178",
+   "lon": "77.2219388"
+  },
+  {
+   "Area": "Goa",
+   "Oxygen": "30",
+   "Temperature": "50",
+   "Humidity": "45",
+   "Fire Occurence": "1",
+   "lat": "15.2142541",
+   "lon": "74.0707793"
+  },
+  {
+   "Area": "Haryana",
+   "Oxygen": "40",
+   "Temperature": "55",
+   "Humidity": "80",
+   "Fire Occurence": "1",
+   "lat": "29",
+   "lon": "76"
+  },
+  {
+   "Area": "Gujarat",
+   "Oxygen": "30",
+   "Temperature": "39",
+   "Humidity": "100",
+   "Fire Occurence": "0",
+   "lat": "22.3850008",
+   "lon": "71.7452633"
+  },
+  {
+   "Area": "Jharkand",
+   "Oxygen": "10",
+   "Temperature": "12",
+   "Humidity": "12",
+   "Fire Occurence": "0",
+   "lat": "26.9212043",
+   "lon": "75.7544029"
+  },
+  {
+   "Area": "Haryana",
+   "Oxygen": "20",
+   "Temperature": "23",
+   "Humidity": "23",
+   "Fire Occurence": "0",
+   "lat": "29",
+   "lon": "76"
+  },
+  {
+   "Area": "Himachal Pradesh",
+   "Oxygen": "60",
+   "Temperature": "34",
+   "Humidity": "15",
+   "Fire Occurence": "1",
+   "lat": "32.0104317",
+   "lon": "77.3166036"
+  },
+  {
+   "Area": "Jammu And Kashmir",
+   "Oxygen": "80",
+   "Temperature": "4",
+   "Humidity": "68",
+   "Fire Occurence": "0",
+   "lat": "33.743719",
+   "lon": "75.350129"
+  },
+  {
+   "Area": "Karnataka",
+   "Oxygen": "25",
+   "Temperature": "56",
+   "Humidity": "79",
+   "Fire Occurence": "1",
+   "lat": "13.3419169",
+   "lon": "74.7473232"
+  },
+  {
+   "Area": "Kerala",
+   "Oxygen": "12",
+   "Temperature": "45",
+   "Humidity": "90",
+   "Fire Occurence": "0",
+   "lat": "9.5410817",
+   "lon": "76.5859717"
+  },
+  {
+   "Area": "Madhya Pradesh",
+   "Oxygen": "28",
+   "Temperature": "43",
+   "Humidity": "15",
+   "Fire Occurence": "1",
+   "lat": "23.80560575",
+   "lon": "77.53853604"
+  },
+  {
+   "Area": "Maharashtra",
+   "Oxygen": "26",
+   "Temperature": "0",
+   "Humidity": "32",
+   "Fire Occurence": "0",
+   "lat": "19.1722904",
+   "lon": "72.9564695"
+  },
+  {
+   "Area": "Manipur",
+   "Oxygen": "32",
+   "Temperature": "37",
+   "Humidity": "21",
+   "Fire Occurence": "1",
+   "lat": "24.6375309",
+   "lon": "93.9431795"
+  },
+  {
+   "Area": "Meghalaya",
+   "Oxygen": "45",
+   "Temperature": "48",
+   "Humidity": "12",
+   "Fire Occurence": "1",
+   "lat": "25.5379432",
+   "lon": "91.2999102"
+  },
+  {
+   "Area": "Mizoram",
+   "Oxygen": "56",
+   "Temperature": "15",
+   "Humidity": "65",
+   "Fire Occurence": "0",
+   "lat": "23.2146169",
+   "lon": "92.8687612"
+  },
+  {
+   "Area": "Nagaland",
+   "Oxygen": "67",
+   "Temperature": "45",
+   "Humidity": "33",
+   "Fire Occurence": "1",
+   "lat": "26.1630556",
+   "lon": "94.5884911"
+  },
+  {
+   "Area": "Odisha",
+   "Oxygen": "78",
+   "Temperature": "49",
+   "Humidity": "8",
+   "Fire Occurence": "1",
+   "lat": "20.5431241",
+   "lon": "84.6897321"
+  },
+  {
+   "Area": "Punjab",
+   "Oxygen": "89",
+   "Temperature": "45",
+   "Humidity": "18",
+   "Fire Occurence": "1",
+   "lat": "30.9293211",
+   "lon": "75.5004841"
+  },
+  {
+   "Area": "Rajasthan",
+   "Oxygen": "21",
+   "Temperature": "12",
+   "Humidity": "44",
+   "Fire Occurence": "0",
+   "lat": "28.2538778",
+   "lon": "76.6138619"
+  },
+  {
+   "Area": "Sikkim",
+   "Oxygen": "11",
+   "Temperature": "20",
+   "Humidity": "59",
+   "Fire Occurence": "0",
+   "lat": "27.329046",
+   "lon": "88.6122673"
+  },
+  {
+   "Area": "Tamil Nadu",
+   "Oxygen": "1",
+   "Temperature": "32",
+   "Humidity": "70",
+   "Fire Occurence": "0",
+   "lat": "10.9094334",
+   "lon": "78.3665347"
+  },
+  {
+   "Area": "Telangana",
+   "Oxygen": "5",
+   "Temperature": "20",
+   "Humidity": "45",
+   "Fire Occurence": "0",
+   "lat": "17.8495919",
+   "lon": "79.1151663"
+  },
+  {
+   "Area": "Tripura",
+   "Oxygen": "42",
+   "Temperature": "43",
+   "Humidity": "20",
+   "Fire Occurence": "1",
+   "lat": "23.7750823",
+   "lon": "91.7025091"
+  },
+  {
+   "Area": "Uttar Pradesh",
+   "Oxygen": "32",
+   "Temperature": "60",
+   "Humidity": "30",
+   "Fire Occurence": "1",
+   "lat": "25.9549578",
+   "lon": "76.0481572"
+  },
+  {
+   "Area": "Uttrakhand",
+   "Oxygen": "5",
+   "Temperature": "15",
+   "Humidity": "5",
+   "Fire Occurence": "0",
+   "lat": "30.0797976",
+   "lon": "78.3045766"
+  },
+  {
+   "Area": "West Bengal",
+   "Oxygen": "20",
+   "Temperature": "30",
+   "Humidity": "5",
+   "Fire Occurence": "0",
+   "lat": "22.9884419",
+   "lon": "87.5827455"
+  },
+  {
+   "Area": "Chandigarh",
+   "Oxygen": "30",
+   "Temperature": "51",
+   "Humidity": "2",
+   "Fire Occurence": "1",
+   "lat": "30.7334421",
+   "lon": "76.7797143"
+  },
+  {
+   "Area": "Lakshwadeep",
+   "Oxygen": "60",
+   "Temperature": "60",
+   "Humidity": "10",
+   "Fire Occurence": "1",
+   "lat": "9.9562998",
+   "lon": "76.294808"
+  },
+  {
+   "Area": "Daman And Diu",
+   "Oxygen": "10",
+   "Temperature": "10",
+   "Humidity": "60",
+   "Fire Occurence": "0",
+   "lat": "20.4200049",
+   "lon": "72.8637629"
+  },
+  {
+   "Area": "Puducherry",
+   "Oxygen": "0",
+   "Temperature": "30",
+   "Humidity": "0",
+   "Fire Occurence": "0",
+   "lat": "10.9156489",
+   "lon": "79.8069488"
+  },
+  {
+   "Area": "Andaman And Nicobar Island",
+   "Oxygen": "45",
+   "Temperature": "45",
+   "Humidity": "15",
+   "Fire Occurence": "1",
+   "lat": "11.67387104",
+   "lon": "92.74790955"
+  },
+  {
+   "Area": "Costa Rica",
+   "Oxygen": "35",
+   "Temperature": "53",
+   "Humidity": "53",
+   "Fire Occurence": "0",
+   "lat": "10.2735633",
+   "lon": "-84.0739102"
+  },
+  {
+   "Area": "Australia",
+   "Oxygen": "56",
+   "Temperature": "47",
+   "Humidity": "33",
+   "Fire Occurence": "1",
+   "lat": "-34.7837057",
+   "lon": "138.4865897"
+  },
+  {
+   "Area": "Japan",
+   "Oxygen": "44",
+   "Temperature": "38",
+   "Humidity": "65",
+   "Fire Occurence": "0",
+   "lat": "36.57133059",
+   "lon": "139.2449457"
+  },
+  {
+   "Area": "Latin America",
+   "Oxygen": "45",
+   "Temperature": "45",
+   "Humidity": "65",
+   "Fire Occurence": "0",
+   "lat": "25.7655568",
+   "lon": "-80.2304526"
+  },
+  {
+   "Area": "Uganda",
+   "Oxygen": "88",
+   "Temperature": "24",
+   "Humidity": "55",
+   "Fire Occurence": "1",
+   "lat": "1.530450118",
+   "lon": "32.21973721"
+  },
+  {
+   "Area": "Scotland",
+   "Oxygen": "77",
+   "Temperature": "12",
+   "Humidity": "55",
+   "Fire Occurence": "1",
+   "lat": "56.7861112",
+   "lon": "-4.1140518"
+  },
+  {
+   "Area": "Borneo",
+   "Oxygen": "60",
+   "Temperature": "18",
+   "Humidity": "47",
+   "Fire Occurence": "1",
+   "lat": "1.4296008",
+   "lon": "114.7413032"
+  },
+  {
+   "Area": "Germany",
+   "Oxygen": "87",
+   "Temperature": "40",
+   "Humidity": "56",
+   "Fire Occurence": "1",
+   "lat": "51.0654485",
+   "lon": "10.2316029"
+  },
+  {
+   "Area": "Spain",
+   "Oxygen": "68",
+   "Temperature": "43",
+   "Humidity": "83",
+   "Fire Occurence": "0",
+   "lat": "39.20326156",
+   "lon": "-5.03361664"
+  },
+  {
+   "Area": "South America",
+   "Oxygen": "32",
+   "Temperature": "17",
+   "Humidity": "73",
+   "Fire Occurence": "0",
+   "lat": "-21.12663911",
+   "lon": "-61.20620143"
+  },
+  {
+   "Area": "Washington State",
+   "Oxygen": "24",
+   "Temperature": "3",
+   "Humidity": "12",
+   "Fire Occurence": "1",
+   "lat": "47.72986395",
+   "lon": "-120.7545044"
+  },
+  {
+   "Area": "Colombia",
+   "Oxygen": "11",
+   "Temperature": "27",
+   "Humidity": "22",
+   "Fire Occurence": "0",
+   "lat": "2.532942338",
+   "lon": "-74.06791776"
+  },
+  {
+   "Area": "Canada",
+   "Oxygen": "77",
+   "Temperature": "19",
+   "Humidity": "69",
+   "Fire Occurence": "1",
+   "lat": "61.07347153",
+   "lon": "-108.3280533"
+  },
+  {
+   "Area": "Yemen",
+   "Oxygen": "72",
+   "Temperature": "41",
+   "Humidity": "44",
+   "Fire Occurence": "1",
+   "lat": "16.4896197",
+   "lon": "48.76229055"
+  },
+  {
+   "Area": "Belgium",
+   "Oxygen": "87",
+   "Temperature": "53",
+   "Humidity": "75",
+   "Fire Occurence": "1",
+   "lat": "50.35381879",
+   "lon": "5.444048484"
+  },
+  {
+   "Area": "California",
+   "Oxygen": "93",
+   "Temperature": "33",
+   "Humidity": "74",
+   "Fire Occurence": "1",
+   "lat": "36.7014631",
+   "lon": "-118.755997"
+  },
+  {
+   "Area": "Amazon",
+   "Oxygen": "97",
+   "Temperature": "43",
+   "Humidity": "68",
+   "Fire Occurence": "1",
+   "lat": "-4.479925",
+   "lon": "-63.5185396"
+  },
+  {
+   "Area": "Africa",
+   "Oxygen": "75",
+   "Temperature": "20",
+   "Humidity": "88",
+   "Fire Occurence": "0",
+   "lat": "11.56823175",
+   "lon": "17.73225978"
+  },
+  {
+   "Area": "Oceania",
+   "Oxygen": "97",
+   "Temperature": "11",
+   "Humidity": "37",
+   "Fire Occurence": "1",
+   "lat": "-18.3128",
+   "lon": "138.5156"
+  },
+  {
+   "Area": "Europe",
+   "Oxygen": "44",
+   "Temperature": "41",
+   "Humidity": "21",
+   "Fire Occurence": "1",
+   "lat": "51.00166117",
+   "lon": "9.992872799"
+  },
+  {
+   "Area": "Argentina",
+   "Oxygen": "55",
+   "Temperature": "68",
+   "Humidity": "80",
+   "Fire Occurence": "0",
+   "lat": "-36.55171166",
+   "lon": "-64.40435206"
+  },
+  {
+   "Area": "Bangladesh",
+   "Oxygen": "32",
+   "Temperature": "29",
+   "Humidity": "12",
+   "Fire Occurence": "1",
+   "lat": "23.53735478",
+   "lon": "90.00283843"
+  },
+  {
+   "Area": "Albania",
+   "Oxygen": "64",
+   "Temperature": "44",
+   "Humidity": "76",
+   "Fire Occurence": "0",
+   "lat": "41.000028",
+   "lon": "19.9999619"
+  },
+  {
+   "Area": "Bahamas",
+   "Oxygen": "54",
+   "Temperature": "40",
+   "Humidity": "11",
+   "Fire Occurence": "1",
+   "lat": "24.83023537",
+   "lon": "-78.09407229"
+  },
+  {
+   "Area": "Barmuda",
+   "Oxygen": "25",
+   "Temperature": "38",
+   "Humidity": "45",
+   "Fire Occurence": "0",
+   "lat": "32.29574682",
+   "lon": "-64.7605543"
+  },
+  {
+   "Area": "Brazil",
+   "Oxygen": "75",
+   "Temperature": "61",
+   "Humidity": "54",
+   "Fire Occurence": "1",
+   "lat": "-10.2429203",
+   "lon": "-54.9919857"
+  },
+  {
+   "Area": "Bulgaria",
+   "Oxygen": "88",
+   "Temperature": "50",
+   "Humidity": "62",
+   "Fire Occurence": "1",
+   "lat": "42.6472012",
+   "lon": "25.5009502"
+  },
+  {
+   "Area": "Cambodia",
+   "Oxygen": "65",
+   "Temperature": "91",
+   "Humidity": "32",
+   "Fire Occurence": "1",
+   "lat": "13.43928979",
+   "lon": "104.8350566"
+  },
+  {
+   "Area": "China",
+   "Oxygen": "37",
+   "Temperature": "16",
+   "Humidity": "54",
+   "Fire Occurence": "0",
+   "lat": "35.04274753",
+   "lon": "105.356324"
+  },
+  {
+   "Area": "Croatia",
+   "Oxygen": "77",
+   "Temperature": "20",
+   "Humidity": "65",
+   "Fire Occurence": "1",
+   "lat": "45.37338635",
+   "lon": "17.05661745"
+  },
+  {
+   "Area": "Denmark",
+   "Oxygen": "42",
+   "Temperature": "19",
+   "Humidity": "69",
+   "Fire Occurence": "0",
+   "lat": "55.670249",
+   "lon": "10.3333283"
+  },
+  {
+   "Area": "Egypt",
+   "Oxygen": "47",
+   "Temperature": "13",
+   "Humidity": "80",
+   "Fire Occurence": "0",
+   "lat": "26.66859825",
+   "lon": "29.46409297"
+  },
+  {
+   "Area": "Estonia",
+   "Oxygen": "97",
+   "Temperature": "82",
+   "Humidity": "35",
+   "Fire Occurence": "1",
+   "lat": "58.60241751",
+   "lon": "25.59033861"
+  },
+  {
+   "Area": "Finland",
+   "Oxygen": "28",
+   "Temperature": "74",
+   "Humidity": "46",
+   "Fire Occurence": "0",
+   "lat": "63.23934811",
+   "lon": "26.19716995"
+  },
+  {
+   "Area": "France",
+   "Oxygen": "52",
+   "Temperature": "5",
+   "Humidity": "57",
+   "Fire Occurence": "0",
+   "lat": "46.48216199",
+   "lon": "2.018433521"
+  },
+  {
+   "Area": "Georgia",
+   "Oxygen": "83",
+   "Temperature": "31",
+   "Humidity": "76",
+   "Fire Occurence": "1",
+   "lat": "41.67666279",
+   "lon": "44.29392071"
+  },
+  {
+   "Area": "Germany",
+   "Oxygen": "57",
+   "Temperature": "16",
+   "Humidity": "59",
+   "Fire Occurence": "0",
+   "lat": "51.043201",
+   "lon": "10.44116237"
+  },
+  {
+   "Area": "Greece",
+   "Oxygen": "74",
+   "Temperature": "51",
+   "Humidity": "87",
+   "Fire Occurence": "0",
+   "lat": "39.12620693",
+   "lon": "22.0705913"
+  },
+  {
+   "Area": "Hungary",
+   "Oxygen": "63",
+   "Temperature": "71",
+   "Humidity": "71",
+   "Fire Occurence": "0",
+   "lat": "47.13133144",
+   "lon": "19.79311155"
+  },
+  {
+   "Area": "Iceland",
+   "Oxygen": "15",
+   "Temperature": "19",
+   "Humidity": "10",
+   "Fire Occurence": "1",
+   "lat": "64.90316512",
+   "lon": "-18.14442209"
+  },
+  {
+   "Area": "Indonesia",
+   "Oxygen": "21",
+   "Temperature": "42",
+   "Humidity": "33",
+   "Fire Occurence": "0",
+   "lat": "-2.4833826",
+   "lon": "117.8902853"
+  },
+  {
+   "Area": "Iran",
+   "Oxygen": "27",
+   "Temperature": "32",
+   "Humidity": "37",
+   "Fire Occurence": "0",
+   "lat": "34.95034024",
+   "lon": "53.08479648"
+  },
+  {
+   "Area": "Iraq",
+   "Oxygen": "44",
+   "Temperature": "87",
+   "Humidity": "56",
+   "Fire Occurence": "0",
+   "lat": "32.29901427",
+   "lon": "47.1980459"
+  },
+  {
+   "Area": "Ireland",
+   "Oxygen": "51",
+   "Temperature": "48",
+   "Humidity": "62",
+   "Fire Occurence": "0",
+   "lat": "52.1907693",
+   "lon": "-9.193235207"
+  },
+  {
+   "Area": "Israel",
+   "Oxygen": "39",
+   "Temperature": "36",
+   "Humidity": "47",
+   "Fire Occurence": "0",
+   "lat": "30.3194353",
+   "lon": "34.94493638"
+  },
+  {
+   "Area": "Jamaica",
+   "Oxygen": "32",
+   "Temperature": "72",
+   "Humidity": "40",
+   "Fire Occurence": "0",
+   "lat": "18.1850507",
+   "lon": "-77.3947693"
+  },
+  {
+   "Area": "Kenya",
+   "Oxygen": "60",
+   "Temperature": "54",
+   "Humidity": "72",
+   "Fire Occurence": "0",
+   "lat": "2.008343312",
+   "lon": "38.66164546"
+  },
+  {
+   "Area": "Kuwait",
+   "Oxygen": "56",
+   "Temperature": "7",
+   "Humidity": "59",
+   "Fire Occurence": "0",
+   "lat": "29.39977539",
+   "lon": "47.38282427"
+  },
+  {
+   "Area": "Liberia",
+   "Oxygen": "60",
+   "Temperature": "42",
+   "Humidity": "63",
+   "Fire Occurence": "0",
+   "lat": "5.653803029",
+   "lon": "-9.363009227"
+  },
+  {
+   "Area": "Malaysia",
+   "Oxygen": "54",
+   "Temperature": "2",
+   "Humidity": "66",
+   "Fire Occurence": "0",
+   "lat": "4.71953615",
+   "lon": "102.5456752"
+  },
+  {
+   "Area": "Maldives",
+   "Oxygen": "47",
+   "Temperature": "11",
+   "Humidity": "53",
+   "Fire Occurence": "0",
+   "lat": "4.7064352",
+   "lon": "73.3287853"
+  },
+  {
+   "Area": "Mexico",
+   "Oxygen": "60",
+   "Temperature": "27",
+   "Humidity": "73",
+   "Fire Occurence": "0",
+   "lat": "19.53390801",
+   "lon": "-100.2359701"
+  },
+  {
+   "Area": "Nepal",
+   "Oxygen": "50",
+   "Temperature": "57",
+   "Humidity": "57",
+   "Fire Occurence": "0",
+   "lat": "27.59820646",
+   "lon": "84.28642991"
+  },
+  {
+   "Area": "Netherlands",
+   "Oxygen": "70",
+   "Temperature": "67",
+   "Humidity": "73",
+   "Fire Occurence": "0",
+   "lat": "52.18235818",
+   "lon": "5.914372345"
+  },
+  {
+   "Area": "NewZealand",
+   "Oxygen": "69",
+   "Temperature": "48",
+   "Humidity": "71",
+   "Fire Occurence": "0",
+   "lat": "-46.4108596",
+   "lon": "168.3516142"
+  },
+  {
+   "Area": "Nigeria",
+   "Oxygen": "72",
+   "Temperature": "61",
+   "Humidity": "66",
+   "Fire Occurence": "1",
+   "lat": "10.92070485",
+   "lon": "6.202190927"
+  },
+  {
+   "Area": "North Korea",
+   "Oxygen": "58",
+   "Temperature": "53",
+   "Humidity": "65",
+   "Fire Occurence": "0",
+   "lat": "40.5427851",
+   "lon": "126.6499987"
+  },
+  {
+   "Area": "Norway",
+   "Oxygen": "74",
+   "Temperature": "28",
+   "Humidity": "47",
+   "Fire Occurence": "1",
+   "lat": "60.03025749",
+   "lon": "7.369522291"
+  },
+  {
+   "Area": "Phillipines",
+   "Oxygen": "21",
+   "Temperature": "27",
+   "Humidity": "23",
+   "Fire Occurence": "0",
+   "lat": "10.2447856",
+   "lon": "-61.4561398"
+  },
+  {
+   "Area": "Poland ",
+   "Oxygen": "19",
+   "Temperature": "19",
+   "Humidity": "13",
+   "Fire Occurence": "1",
+   "lat": "50.94687516",
+   "lon": "17.94263398"
+  },
+  {
+   "Area": "Portugal",
+   "Oxygen": "11",
+   "Temperature": "54",
+   "Humidity": "9",
+   "Fire Occurence": "1",
+   "lat": "40.45469878",
+   "lon": "-7.550718498"
+  },
+  {
+   "Area": "Qatar",
+   "Oxygen": "3",
+   "Temperature": "46",
+   "Humidity": "7",
+   "Fire Occurence": "0",
+   "lat": "25.3336984",
+   "lon": "51.2295295"
+  },
+  {
+   "Area": "Romania",
+   "Oxygen": "23",
+   "Temperature": "31",
+   "Humidity": "27",
+   "Fire Occurence": "0",
+   "lat": "45.0574453",
+   "lon": "29.3989788"
+  },
+  {
+   "Area": "Russia",
+   "Oxygen": "19",
+   "Temperature": "37",
+   "Humidity": "24",
+   "Fire Occurence": "0",
+   "lat": "60.34692117",
+   "lon": "60.78802022"
+  },
+  {
+   "Area": "Saudi Arabia",
+   "Oxygen": "33",
+   "Temperature": "44",
+   "Humidity": "29",
+   "Fire Occurence": "1",
+   "lat": "20.91689919",
+   "lon": "44.37181008"
+  },
+  {
+   "Area": "Singapore",
+   "Oxygen": "44",
+   "Temperature": "7",
+   "Humidity": "39",
+   "Fire Occurence": "1",
+   "lat": "1.357107",
+   "lon": "103.8194992"
+  },
+  {
+   "Area": "Spain",
+   "Oxygen": "87",
+   "Temperature": "8",
+   "Humidity": "31",
+   "Fire Occurence": "1",
+   "lat": "39.3260685",
+   "lon": "-4.8379791"
+  },
+  {
+   "Area": "Sri Lanka",
+   "Oxygen": "48",
+   "Temperature": "54",
+   "Humidity": "79",
+   "Fire Occurence": "0",
+   "lat": "7.5554942",
+   "lon": "80.7137847"
+  },
+  {
+   "Area": "Swiden",
+   "Oxygen": "63",
+   "Temperature": "13",
+   "Humidity": "80",
+   "Fire Occurence": "0",
+   "lat": "41.6716723",
+   "lon": "-80.4062207"
+  },
+  {
+   "Area": "Switzerland",
+   "Oxygen": "19",
+   "Temperature": "63",
+   "Humidity": "84",
+   "Fire Occurence": "0",
+   "lat": "46.7985624",
+   "lon": "8.2319736"
+  },
+  {
+   "Area": "Thailand",
+   "Oxygen": "90",
+   "Temperature": "17",
+   "Humidity": "76",
+   "Fire Occurence": "1",
+   "lat": "14.8971921",
+   "lon": "100.83273"
+  },
+  {
+   "Area": "Turky",
+   "Oxygen": "75",
+   "Temperature": "22",
+   "Humidity": "90",
+   "Fire Occurence": "0",
+   "lat": "49.1658654",
+   "lon": "18.7518006"
+  },
+  {
+   "Area": "Ukraine",
+   "Oxygen": "91",
+   "Temperature": "77",
+   "Humidity": "12",
+   "Fire Occurence": "1",
+   "lat": "49.74695691",
+   "lon": "32.33144024"
+  },
+  {
+   "Area": "UAE",
+   "Oxygen": "88",
+   "Temperature": "26",
+   "Humidity": "36",
+   "Fire Occurence": "1",
+   "lat": "24.20039177",
+   "lon": "55.67616653"
+  },
+  {
+   "Area": "Vietnam",
+   "Oxygen": "65",
+   "Temperature": "55",
+   "Humidity": "69",
+   "Fire Occurence": "0",
+   "lat": "13.2904027",
+   "lon": "108.4265113"
+  },
+  {
+   "Area": "Yemen",
+   "Oxygen": "78",
+   "Temperature": "69",
+   "Humidity": "88",
+   "Fire Occurence": "0",
+   "lat": "16.3471243",
+   "lon": "47.8915271"
+  },
+  {
+   "Area": "Zimbabwe",
+   "Oxygen": "21",
+   "Temperature": "69",
+   "Humidity": "76",
+   "Fire Occurence": "0",
+   "lat": "-18.4554963",
+   "lon": "29.7468414"
+  }
+ ]
+}
