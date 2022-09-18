@@ -1,5 +1,10 @@
 # Fireadora
 
+
+![image](https://user-images.githubusercontent.com/113373405/190914702-9fb4f88d-efc2-4a16-8574-4efc73d1f3ba.png)
+
+
+
 **Motivation**
 
 All over the world, forest fires causes severe damages to valuable natural environment and loss of human lives. Forest fires are a major environmental issue, creating economical and ecological damage
@@ -26,6 +31,12 @@ This particular problem comes under the category of Supervised Learning. We trai
 1. Linear Regression
 2. Logistic Regression
 3. Support Vector Machine 
+
+![image](https://user-images.githubusercontent.com/113373405/190914722-2a05318c-f59c-4350-9196-2d1c0f71047b.png)
+
+These are the following accuracies of the models, we can see that logistic regression has the highest accuracy. Thus, the model is built on it
+
+
 
 **Requirements**
 
