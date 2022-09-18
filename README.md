@@ -1,6 +1,7 @@
 # Fireadora
 
 **Motivation**
+
 All over the world, forest fires causes severe damages to valuable natural environment and loss of human lives. Forest fires are a major environmental issue, creating economical and ecological damage
 while endangering human lives. The ability of accurately predicting the area that may be involved in a forest fire event may help in optimizing fire management efforts. Fast detection is a key element
 for controlling such phenomenon. The fire statistics showed that the number of forest fire are caused by natural changes like oxygen level, temperature and humidity of the
@@ -24,7 +25,7 @@ This particular problem comes under the category of Supervised Learning. We trai
 2. Logistic Regression
 3. Support Vector Machine 
 
-*Requirements**
+**Requirements**
 Python 3.6 or greater
 Streamlit
 Libraries:
