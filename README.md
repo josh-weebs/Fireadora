@@ -15,17 +15,20 @@ a large enough dataset, we can create a trained machine learning model which can
 the 3 parameters. Government can in that sense take necessary precautions for areas which high probability of a fire breaking out.
 
 **Framework**
+
 When this concept is applied development, we can create a web application that simply takes 3 inputs from the user to get the forest fire probability.
 Streamlit: Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data
 science. In just a few minutes you can build and deploy powerful data apps.
 
 **Algorithms**
+
 This particular problem comes under the category of Supervised Learning. We train our machine learning mode using the following 3 learning models and compare the accuracies:
 1. Linear Regression
 2. Logistic Regression
 3. Support Vector Machine 
 
 **Requirements**
+
 Python 3.6 or greater
 Streamlit
 Libraries:
