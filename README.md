@@ -31,8 +31,14 @@ This particular problem comes under the category of Supervised Learning. We trai
 
 Python 3.6 or greater
 Streamlit
+
 Libraries:
+
 SKlearn
+
 Seaborn
+
 Pandas
+
 Matplotlib
+
