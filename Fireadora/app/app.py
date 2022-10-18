@@ -5,13 +5,13 @@ import seaborn as sb
 import matplotlib
 import matplotlib.pyplot as plt
 import pickle
-model=pickle.load(open('model.pkl','rb'))
+model=pickle.load(open('C:/Users/alenj/Desktop/Fireadora-main/Fireadora/model.pkl','rb'))
 
 matplotlib.use('Agg')
 from PIL import Image
 
 st.title('Forest Fire Prediction/Analysis')
-image=Image.open('forest.jpg')
+image=Image.open('C:/Users/alenj/Desktop/Fireadora-main/Fireadora/img/forest.jpg')
 st.image(image,use_column_width=True)
 @st.cache
 def predict_forest(oxygen,humidity,temperature):
@@ -21,17 +21,17 @@ def predict_forest(oxygen,humidity,temperature):
     return float(pred)
 
 def main():
-    activities=['EDA','Prediction','Effects']
+    activities=['EDA','Prediction','Effects','Visualisation']
     option=st.sidebar.selectbox('Selection option:',activities)
     st.set_option('deprecation.showPyplotGlobalUse', False)
     
     if option=='EDA':
         st.subheader("Exploratory data analysis")
         data=st.file_uploader("Upload your dataset:",type=['csv','xlsx','txt','json'])
-        data=pd.read_csv("cov1.csv")
+        data=pd.read_csv("C:/Users/alenj/Desktop/Fireadora-main/Fireadora/dataset/cov1.csv")
         if data is not None:
             st.success("Data successfully uploaded")
-            df=pd.read_csv("cov1.csv")
+            df=pd.read_csv("C:/Users/alenj/Desktop/Fireadora-main/Fireadora/dataset/cov1.csv")
             st.dataframe(df.head(50))
 
             if st.checkbox("Display shape"):
@@ -45,12 +45,12 @@ def main():
             if st.checkbox("Display summary"):
                 st.write(df1.describe().T) 
             if st.checkbox("Display datatypes"):
-                st.write(df.dtypes)
+                st.write(df.dtypes())
             if st.checkbox("Display Correlation of data various columns"):
                 st.write(df.corr())                     
 
     if option=='Prediction':
-        st.subheader("Predection")
+        st.subheader("Prediction")
         html_temp = """
         <div style="background-color:#025246 ;padding:10px">
         <h2 style="color:white;text-align:center;">Forest Fire Prediction ML App </h2>
@@ -80,6 +80,56 @@ def main():
                 st.markdown(danger_html,unsafe_allow_html=True)
             else:
                 st.markdown(safe_html,unsafe_allow_html=True)
+
+    elif option=='Visualisation':
+        st.subheader("Visualisation")
+        data=st.file_uploader("Upload your dataset:",type=['csv','xlsx','txt','json'])
+        # data=pd.read_csv("C:/Users/alenj/Desktop/Fireadora-main/Fireadora/dataset/cov1.csv")
+        if data is not None:
+            st.success("Data successfully uploaded")
+            df=pd.read_csv(data)
+            st.dataframe(df.head(50))
+
+            if st.checkbox('Select Multiple Columns to plot'):
+                selected_column=st.multiselect('Select your preffered columns',df.columns)
+                selected_column.append("Cover_Type")
+                df1=df[selected_column]
+                # st.dataframe(df1)
+
+            if st.checkbox('Display Heatmap'):
+                st.write(sb.heatmap(df1.corr(),vmax=1,vmin=0, xticklabels=True, yticklabels=True,square=True,annot=True,cmap='viridis'))
+                st.pyplot()
+            if st.checkbox('Display Pairplot'):
+                dataf=pd.read_csv("C:/Users/alenj/Desktop/Fireadora-main/Fireadora/dataset/names.csv")
+                st.dataframe(dataf)
+                # st.write(df.Cover_Type.value_counts())
+                st.write(sb.pairplot(df1,hue="Cover_Type",palette="husl"))
+                st.pyplot()
+            if st.checkbox('Display Countplot'):
+                # st.write(df.Cover_Type.value_counts())
+                st.write(sb.countplot(x='Cover_Type',data=df))
+                st.pyplot()
+            if st.checkbox("Display Wilderness Density"):
+                trees = pd.read_csv("C:/Users/alenj/Desktop/Fireadora-main/Fireadora/dataset/cov1.csv")
+                trees['Wilderness_Area_Type'] = (trees.iloc[:, 11:15] == 1).idxmax(1)
+                wilderness_areas = sorted(trees['Wilderness_Area_Type'].value_counts().index.tolist())
+                for area in wilderness_areas:
+                    subset = trees[trees['Wilderness_Area_Type'] == area]
+                    sb.kdeplot(subset["Cover_Type"], label=area, linewidth=1)   
+                plt.ylabel("Density")
+                plt.xlabel("Cover_Type")
+                plt.legend()
+                plt.title("Density of Cover Types Among Different Wilderness Areas", size=14)
+                st.pyplot()
+
+            if st.checkbox("boxplot"):
+                st.write("#### Select column to visualize: ")
+                columns = df.columns.tolist()
+                class_name = columns[-1]
+                column_name = st.selectbox("",columns)
+                st.write(sb.boxplot(x=class_name, y=column_name, palette="husl", data=df))
+                st.pyplot()
+
 
     elif option=='Effects':
         st.subheader("Effects due to forest fire")
@@ -173,7 +223,6 @@ def main():
 
 
         st.pyplot()
-
 
 if __name__=='__main__':
     main()
